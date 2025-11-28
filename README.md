@@ -20,7 +20,7 @@
 - 💼 I'm currently working on: **💻 Developing an habit tracker in Laravel.**
 - 🌱 I'm currently learning: **📚 Webscraping with python.**
 - 💬 Ask me about: **💡 Python, FastAPI, SQL, PHP.**
-- ⚡ Fun fact: **🎢 I use Arch (btw)**
+- ⚡ Fun fact: **I use Arch (btw)**
 
  **<h3 align="left">Skills</h3>**
 
